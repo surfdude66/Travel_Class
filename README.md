@@ -1,5 +1,7 @@
 # Travel Guide — Singapore Explorer
 
+![App Screenshot](screenshot.png)
+
 A single-page travel guide web app for Singapore-based travellers exploring 12 Asian destinations.
 
 ## Features
